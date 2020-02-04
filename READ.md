@@ -1,5 +1,5 @@
 # Python lesson Till
 ## Author
-Tomo Saric
+Tomo Saric II 
 ## Date
-04.02.2020
+2020-02-04
